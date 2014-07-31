@@ -1,0 +1,6 @@
+/Server/*.suo
+/Server/Server/bin/Debug
+/Server/Server/obj/x86/Debug
+/client/*.suo
+/client/client/obj/x86/Debug
+/client/client/bin/Debug
